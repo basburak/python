@@ -1,0 +1,10 @@
+# liste=["elma",35,"merhaba",3.14]
+# liste
+# liste.pop(1)
+# liste=["ahmet","bera","yılmazyurt"]
+# print(liste)
+# liste.append("ahmet")
+# print(liste)
+# print(len(liste))
+# liste.pop(1)
+# print(liste)

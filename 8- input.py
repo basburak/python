@@ -1,0 +1,6 @@
+a=input("lütfen sayı gir")
+print("kullanıcı girişi",a)
+a=int(input("birinci sayı"))
+b=int(input("ikinci sayı"))
+c=int(input("üçüncü sayı"))
+print("toplamları",a+b+c)
